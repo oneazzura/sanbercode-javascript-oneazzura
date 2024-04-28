@@ -1,0 +1,11 @@
+{
+  "name": "sanbercode-javascript-oneazzura",
+  "version": "1.0.0",
+  "description": "Tugas pekan 2 javascript indah azzura sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "indah azzura",
+  "license": "ISC"
+}
